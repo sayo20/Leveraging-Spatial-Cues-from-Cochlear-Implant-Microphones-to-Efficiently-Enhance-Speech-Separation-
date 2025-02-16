@@ -10,7 +10,9 @@ We have uploaded the training checkpoints for the different input configurations
 To train from scratch, you can run the RunTrain file. you need to switch to either LightningFile or LighningFIle_spatial depending on what input configuration you are using.
 
 # Audio samples
-## Audio Samples
+
+
+Some audio samples with different spatially separated talkers. The link opens up the audio player
 
 
 
