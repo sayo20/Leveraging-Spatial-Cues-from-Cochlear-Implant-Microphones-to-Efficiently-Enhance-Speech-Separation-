@@ -26,6 +26,9 @@ To train from scratch, you can run the RunTrain file. you need to switch to eith
     <td>
 Speakers at angles 90 and 270
 
+
+
+
       
   https://github.com/user-attachments/assets/521ee8aa-c506-4905-b859-d9dba5604476
     </td>
@@ -34,12 +37,19 @@ Speakers at angles 90 and 270
 https://github.com/user-attachments/assets/fe4e1ccc-c81a-42f9-97be-df23ebd5ef6c
 
 
+
+
+
       
 https://github.com/user-attachments/assets/b9e0cf9f-2684-4e4f-82f9-1d3ba6c31b64
     </td>
     <td>
     
 https://github.com/user-attachments/assets/5da2f37e-5986-428d-b940-dc054b97e27e
+
+
+
+
 
       
 https://github.com/user-attachments/assets/9db1ee15-dee8-4f85-a45b-711033c64334
@@ -50,12 +60,19 @@ https://github.com/user-attachments/assets/9db1ee15-dee8-4f85-a45b-711033c64334
     <td>
 Speakers at angle 0
 
+
+
+
+
+
       
    https://github.com/user-attachments/assets/79fc1590-bb48-4db9-98d1-a390304c296d
     </td>
     <td>
 
 https://github.com/user-attachments/assets/e8de39ea-d070-4cc6-9c16-9458736a1de6
+
+
 
 
 
@@ -68,6 +85,10 @@ https://github.com/user-attachments/assets/a3519ff4-7a95-43e6-a07d-9c4bf9e642a4
 https://github.com/user-attachments/assets/22f525a4-2f5d-4466-9f34-44ad190cfd0c
 
 
+
+
+
+
 https://github.com/user-attachments/assets/976e9fb8-9376-4c7e-82f7-ba9c91401f44
  </td>
   </tr>
@@ -75,6 +96,9 @@ https://github.com/user-attachments/assets/976e9fb8-9376-4c7e-82f7-ba9c91401f44
   <tr>
     <td>
 Speakers at angles 15 and 30
+
+
+
 
       
 
