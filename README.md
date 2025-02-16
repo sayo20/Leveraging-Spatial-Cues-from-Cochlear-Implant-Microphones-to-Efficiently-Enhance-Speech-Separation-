@@ -8,3 +8,55 @@ We have uploaded the training checkpoints for the different input configuration 
 
 # Training
 To train from scratch, you can run the RunTrain file. you need to switch to either LightningFile or LighningFIle_spatial dependending on what input configuration you are using.
+
+# Audio samples
+## Audio Samples
+
+<table>
+  <tr>
+    <th>Mixed Audio</th>
+    <th>Reference Audio</th>
+    <th>Separated Audio</th>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="path/to/mixed_audio1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="path/to/reference_audio1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="path/to/separated_audio1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="path/to/mixed_audio2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="path/to/reference_audio2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="path/to/separated_audio2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
