@@ -24,9 +24,8 @@ To train from scratch, you can run the RunTrain file. you need to switch to eith
   </tr>
   <tr>
     <td>
+      
 Speakers at angles 90 and 270
-
-
 
 
       
@@ -44,6 +43,7 @@ https://github.com/user-attachments/assets/fe4e1ccc-c81a-42f9-97be-df23ebd5ef6c
 https://github.com/user-attachments/assets/b9e0cf9f-2684-4e4f-82f9-1d3ba6c31b64
     </td>
     <td>
+
     
 https://github.com/user-attachments/assets/5da2f37e-5986-428d-b940-dc054b97e27e
 
@@ -58,6 +58,7 @@ https://github.com/user-attachments/assets/9db1ee15-dee8-4f85-a45b-711033c64334
 
   <tr>
     <td>
+      
 Speakers at angle 0
 
 
@@ -95,6 +96,8 @@ https://github.com/user-attachments/assets/976e9fb8-9376-4c7e-82f7-ba9c91401f44
 
   <tr>
     <td>
+
+      
 Speakers at angles 15 and 30
 
 
